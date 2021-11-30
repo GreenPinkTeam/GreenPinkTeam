@@ -9,6 +9,7 @@ Some of our apps have online features such as online leaderboards, in these case
 Our apps are ALWAYS suitable for any age audience. 
 If it ever happen that an app made by us is not suitable for young players,
 we will clearly indicate it and make sure it is only reached by an older audience.
+Our apps displays Advertissements in a form of small banners, to help us cover the cost for creating and publishing free games.
 
 If you have any concerns about your privacy while playing our games, please contact us with any questions and we will help you as quickly as possible.
 Have fun, Enjoy our games!
