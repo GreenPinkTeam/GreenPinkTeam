@@ -1,3 +1,5 @@
+GreenPink Team's privacy policies:
+
 We take privacy seriously, and we feel it's our duty to help you if you have any concern. 
 Sometime apps collect your data without your knowledge, but it is not the case with our apps.
 
@@ -11,7 +13,10 @@ If it ever happen that an app made by us is not suitable for young players,
 we will clearly indicate it and make sure it is only reached by an older audience.
 Our apps displays Advertissements in a form of small banners, to help us cover the cost for creating and publishing free games.
 
+Some of our apps contain in-apps purchases.
+
 If you have any concerns about your privacy while playing our games, please contact us with any questions and we will help you as quickly as possible.
 Have fun, Enjoy our games!
 
 Contact:  greenpinkfamilystudio@gmail.com
+Website:  www.greenpink.live
